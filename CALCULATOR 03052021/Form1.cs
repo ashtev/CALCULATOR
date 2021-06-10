@@ -141,5 +141,20 @@ namespace CALCULATOR_03052021
             SCREEN.Text += ".";
 
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void plusminus_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void clear_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
