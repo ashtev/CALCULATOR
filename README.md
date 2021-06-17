@@ -5,4 +5,4 @@ May 30, 2021 - finished basic calculator app
 June 05, 2021 - update SCI CAL GUI 
 
 TO DO: 
- - Upgrade to scientific calculator 
+ - restart program due to errors :)))) 
