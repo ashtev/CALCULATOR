@@ -1,0 +1,94 @@
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).exe
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).deps.json
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).runtimeconfig.json
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\ref\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).pdb
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR__FINAL_.Form1.resources
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\ref\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).pdb
+C:\Users\ASUS\source\repos\CALCULATOR (FINAL)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).genruntimeconfig.cache
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR__FINAL_.Form1.resources
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR__FINAL_.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\ref\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).pdb
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).exe
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).deps.json
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).runtimeconfig.json
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\ref\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).pdb
+C:\Users\ASUS\source\repos\CALCULATOR 17. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).genruntimeconfig.cache
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).exe
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).deps.json
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).runtimeconfig.json
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\ref\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).pdb
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR__FINAL_.Form1.resources
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR__FINAL_.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\ref\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).pdb
+C:\Users\ASUS\source\repos\CALCULATOR 19. 06. 2021\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).genruntimeconfig.cache
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).exe
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).deps.json
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).runtimeconfig.json
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\ref\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).pdb
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR__FINAL_.Form1.resources
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR__FINAL_.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\ref\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).pdb
+C:\Users\ASUS\source\repos\CALCULATOR(COMPLETE)\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).genruntimeconfig.cache
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).exe
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).deps.json
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).runtimeconfig.json
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\ref\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\bin\Debug\net5.0-windows\CALCULATOR (FINAL).pdb
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR__FINAL_.Form1.resources
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR__FINAL_.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\ref\CALCULATOR (FINAL).dll
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).pdb
+C:\Users\ASUS\source\repos\CALCULATOR 27.06\CALCULATOR (FINAL)\obj\Debug\net5.0-windows\CALCULATOR (FINAL).genruntimeconfig.cache
